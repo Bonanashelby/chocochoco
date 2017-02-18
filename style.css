@@ -1,0 +1,83 @@
+header{
+}
+
+.social-media{
+  float: right;
+}
+
+.logo{
+  margin: left auto;
+
+}
+
+h1{
+  font-family: cursive;
+  font-size: 23px;
+  display: inline-block;
+}
+
+h2{
+  font-family: serif;
+}
+
+h3{
+  font-family: serif;
+}
+
+h4{
+
+}
+
+h6{
+  font-size: 10px;
+  display: inline-block;
+}
+
+.chocopizza{
+font-size: 15px;
+font-family: serif;
+}
+
+p{
+  font-family: serif;
+}
+
+.index-card{
+  position: relative;
+  width: 100%; /* for IE 6 */
+}
+
+ul.a{
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  right: 20px;
+  bottom:20px;
+  width: 50%;
+}
+
+ul.b{
+  position: absolute;
+  top: 30px;
+  left: 400px;
+  right: 20px;
+  bottom:20px;
+  width: 50%;
+}
+
+li{
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+.vanpic{
+
+}
+
+footer{
+  padding: 1em;
+  color: white;
+  background-color: black;
+  clear: left;
+  text-align: center;
+}
